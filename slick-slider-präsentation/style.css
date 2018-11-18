@@ -1,0 +1,47 @@
+
+
+body{
+    background-color: #3498db!important;
+
+}
+*{
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+}
+
+#red {
+    background-color: #3498db!important;
+}
+.placeholder{
+    margin: 10px auto;
+    width: 300px;
+    height: 200px;
+    color: #3498db;
+    font-size: 90px;
+    font-weight: bolder;
+    padding: 30px;
+    background: #fff;
+    line-height: 100px;
+    margin: 10px;
+    padding: 13%;
+    position: relative;
+    text-align: center;
+}
+.slick-track{
+    height: 100%;
+}
+.slickpic{
+    margin: 0 auto!important;
+}
+
+
+
+
+
+.slick-dots li button:before
+{
+    font-family: 'slick';
+    font-size: 30px!important;
+    line-height: 20px!important;
+
+}
